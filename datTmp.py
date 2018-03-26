@@ -12,6 +12,7 @@ print ("y = ",y)
 trend = np.polyfit(x, y, 1)
 f = np.poly1d(trend)
 
+# Adding Sangam
 print ("trend = ",trend)
 print ("f = ",f)
 
